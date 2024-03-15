@@ -1,8 +1,0 @@
---Custo
-biblioteca de mapa 
-colocar na playstore (25$)
-api de ônibus
---Despesa
-servidor para hospedar o aplicativo
-
-
